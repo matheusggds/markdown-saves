@@ -30,5 +30,17 @@ Não tem qualquer acordo prévio, fixo, em relação a remnueração do capital 
 
 > Você tem a obrigação de estudar a Renda Variavel
 
+Produtos atrelados: Ações e fundos de investimento imobiliario.
 
+###### Como avaliar?
+Você deve partir da premissa que as cotações das ações refletem a saúde efetiva da empresa e não especulações. 
 
+Renda variavel, vinculado a ativos reais (empresas ou imoveis que estão sendo alugados). A cotação a longo prazo desses produtos necessariamente vão refletir a saúde desses ativos que eles refletem.
+
+Uma empresa que vc compra ação, verdadeiramente vc esta se tornando proprietario do negócio.
+
+> Escolher ações de empresas que verdadeiramente cumprem o seu papel, ou seja, produzem de forma eficiente e conseguem vender gerando lucro para os acionistas.
+
+Tudo isso serve para fundos de investimento imobiliários, comprar de gerenciamentos que efetivamente compram imóveis, possibilidade de locação ampla, valor de aluguel alto, custo de gerenciamento baixo e que possa te pagar os alugies mensais de uma forma razoavel pro seu investimento.
+
+Essas ações não se baseiam em especulações... **Pensar a longo prazo.**
