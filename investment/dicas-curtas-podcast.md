@@ -1,8 +1,10 @@
 # O investidor inteligente - Dicas curtas Podcast
 
 ### Renda Fixa
-- Pré Fixado: Saberá qual a taxa de juros aplicado ao empréstimo até o vencimento
-- Pós Fixado: Atrelado a um índice que pode variar no decorrer do empréstimo
+- Pré Fixado: Já sabe qual vai ser a remuneração do dinheiro investido, no momento da contratação
+- Pós Fixado: Fixado a algum inídice cuja definição vai ser futura. _Ex.: Atrelado indice de infalção, ou mesmo, taxa basica de juros ou Certificado de Depósito Interbancários - CDI_
+
+Prejuízo: Não receber o valor _combinado_
 
 ## Tesouro direto
 Bom para investidor amador para patrimônio sólido
@@ -13,6 +15,20 @@ Empresta seu dinheiro ao tesouro nacional por um determinado prazo fixo, com tax
 - Mais seguro
 - Mais seguro até que bancos como CDB, LCI
 
-**TODO INVESTIMENTO TEM RISCOS**
+Lembre-se: **TODO INVESTIMENTO TEM RISCOS**
 
 ## Renda váriavel
+Não tem qualquer acordo prévio, fixo, em relação a remnueração do capital investido.
+
+**Renda fixa**: Pode estimar o lucro ou prejuízo
+
+**Renda variavel**: Estimativa muito mais complexo e imprecisa, normal Grandes Lucros ou Grandes Prejuízos
+
+> Todo investidor amador deve buscar diversificação em renda variavel. 
+
+> Você só deve entrar em renda variavel quando tiver conhecimento e tranquilidade, estude antes.
+
+> Você tem a obrigação de estudar a Renda Variavel
+
+
+
