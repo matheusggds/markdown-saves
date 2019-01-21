@@ -1,4 +1,11 @@
-# O investidor inteligente - Dicas curtas Podcast
+# O investidor inteligente - Dicas curtas Podcast 
+
+E outras fontes...
+
+##### Links: 
+1. [Youtube - Me Poupe](https://www.youtube.com/channel/UC8mDF5mWNGE-Kpfcvnn0bUg)
+2. [Youtube - Primo Rico](https://www.youtube.com/user/thigas)
+3. [Youtube - Gustavo Cerbasi](https://www.youtube.com/channel/UC_mSfchV-fgpPy-vuwML8_A)
 
 ### Renda Fixa
 - Pré Fixado: Já sabe qual vai ser a remuneração do dinheiro investido, no momento da contratação
@@ -60,7 +67,11 @@ Se ganhar R$100.000,00 p/ ano e faz aporte de R$12.000,00 em PGBL, sera tributad
 
 **VGBL**: Para quem faz a declaração no Modelo simples, não possuim o mesmo benefício
 
-<hr>
+_Youtube - Me Poupe!_ <br>
+Pegadinhas sobre Prev. Privada:
+- Taxa de carregamento (2% não é baixo) e administração 
+- Você pode fazer portabilidade 
+- Rentabilidade baixa
 
 _Necessita ouvir de novo p/ tirar dúvidas..._
 
