@@ -45,7 +45,7 @@ Tudo isso serve para fundos de investimento imobiliários, comprar de gerenciame
 
 Essas ações não se baseiam em especulações... **Pensar a longo prazo.**
 
-## Planos de aposentadoria PGBL e VGBL
+## Planos de aposentadoria PGBL e VGBL (Previdência Privada)
 
 - Ambos são planos para sua apostenadoria, e possuem benefício de tributação regressiva (35% - 10%)
 - Tributação mensal
