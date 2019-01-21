@@ -44,3 +44,36 @@ Uma empresa que vc compra ação, verdadeiramente vc esta se tornando proprietar
 Tudo isso serve para fundos de investimento imobiliários, comprar de gerenciamentos que efetivamente compram imóveis, possibilidade de locação ampla, valor de aluguel alto, custo de gerenciamento baixo e que possa te pagar os alugies mensais de uma forma razoavel pro seu investimento.
 
 Essas ações não se baseiam em especulações... **Pensar a longo prazo.**
+
+## Planos de aposentadoria PGBL e VGBL
+
+- Ambos são planos para sua apostenadoria, e possuem benefício de tributação regressiva (35% - 10%)
+- Tributação mensal
+- Direto para sucessores (herdeiros)
+
+**PGBL**: Adequado para quem faz a declaração de imposto de renda Anual no modelo completo. 
+
+Permite um beneficio fiscal que as contribuições que voce fizer até 12% dos seus rendimentos podem ser abatidas da base de calculo do imposto de renrda, gerando postergação do pagamento do imposto de renda pro futuro
+
+Ex.:
+Se ganhar R$100.000,00 p/ ano e faz aporte de R$12.000,00 em PGBL, sera tributado só em cima de R$88.000,00
+
+**VGBL**: Para quem faz a declaração no Modelo simples, não possuim o mesmo benefício
+
+<hr>
+
+_Necessita ouvir de novo p/ tirar dúvidas..._
+
+
+
+
+
+
+
+
+
+
+
+
+
+
