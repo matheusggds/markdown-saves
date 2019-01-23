@@ -8,6 +8,9 @@ E outras fontes...
 3. [Youtube - Gustavo Cerbasi](https://www.youtube.com/channel/UC_mSfchV-fgpPy-vuwML8_A)
 
 ### Renda Fixa
+Quando empresta para o Banco: Renda fixa privada <br>
+Quando é para o governo: Renda fixa de títulos publicos (Renda fixa pública)
+
 - Pré Fixado: Já sabe qual vai ser a remuneração do dinheiro investido, no momento da contratação
 - Pós Fixado: Fixado a algum inídice cuja definição vai ser futura. _Ex.: Atrelado indice de infalção, ou mesmo, taxa basica de juros ou Certificado de Depósito Interbancários - CDI_
 
@@ -75,11 +78,25 @@ Pegadinhas sobre Prev. Privada:
 
 _Necessita ouvir de novo p/ tirar dúvidas..._
 
+## Taxa Selic
+```
+Toda vez que fica abaixo de 8.5% significa que a poupança vai render 70% da SELIC + TR (Fazendo com que a Poupança renda menos que a SELIC)
+```
+
+- Tem liquidez imediata (Max. 2 dias)
 
 
+### 5 Dicas para investir em 2019
+##### Tesouro SELIC
+```
+Toda vez que fica abaixo de 8.5% significa que a poupança vai render 70% da SELIC + TR (Fazendo com que a Poupança renda menos que a SELIC)
+```
 
+- Tem liquidez imediata (Max. 2 dias)
 
-
+##### Renda FIXA bancos pequenos
+- Depende do valor inicial e prazo
+- 
 
 
 
