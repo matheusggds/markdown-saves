@@ -92,10 +92,16 @@ _Necessita ouvir de novo p/ tirar dúvidas..._
 > Toda vez que fica abaixo de 8.5% significa que a poupança vai render 70% da SELIC + TR (Fazendo com que a Poupança renda menos que a SELIC)
 
 - Tem liquidez imediata (Max. 2 dias)
+##### Ações de empresas sólidas
+Expectativa do mercado crescer
 
-##### Renda FIXA bancos pequenos
+##### Renda FIXA bancos pequenos (Renda fixa PRIVADA)
 - Depende do valor inicial e prazo
-- 
+- Ficar atento ao FGC (Fundo Garantidor de Crédito)
+
+##### Fundos Imobíliarios
+##### Fundos Multimercado
+Paga taxa de Administração
 
 
 
