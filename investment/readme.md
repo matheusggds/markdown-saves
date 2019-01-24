@@ -7,11 +7,38 @@ E outras fontes...
 2. [Youtube - Primo Rico](https://www.youtube.com/user/thigas)
 3. [Youtube - Gustavo Cerbasi](https://www.youtube.com/channel/UC_mSfchV-fgpPy-vuwML8_A)
 
-## Conselhos
+## Conselhos em geral
 
 - Se atentar as taxas de transfêrencia para corretoras
+- <b>Sempre olhar para três coisas:</b> <br>
+Rentabilidade <br>
+Risco <br>
+Liquidez <br>
 
-## Renda Fixa
+## Início
+
+1. Sair das dívidas, antes de tudo
+2. <b>Construir sua Reserva de emergência</b> <br>
+Risco baixa e alta liquidez <br>
+ 12 meses do seu gasto mensal. <br>
+ Tesouro Celic <br>
+ Fundo DI <br>
+ CDB de liquidez diária <br>
+3. <b>Planejar aposentadoria</b> <br>
+Não precisa liquidez alta
+Ações <br>
+Fundo imobíliarios <br>
+Fundos <br>
+Debêntures <br>
+Tesouro IPCA
+4. Criar conta corretora
+5. Criar conta banco digital <br>
+Poucas e baixas taxas
+
+
+## Ativos e explicações
+
+### Renda Fixa
 Quando empresta para o Banco: Renda fixa privada <br>
 Quando é para o governo: Renda fixa de títulos publicos (Renda fixa pública)
 
@@ -20,7 +47,7 @@ Quando é para o governo: Renda fixa de títulos publicos (Renda fixa pública)
 
 Prejuízo: Não receber o valor _combinado_
 
-## Tesouro direto
+### Tesouro direto
 > Significa compra de títulos públicos do governo federal diretamente pelo cidadão
 
 Empresta seu dinheiro ao tesouro nacional por um determinado prazo fixo, com taxa de juros já combinada _(Pré fixado)_, atrelado a inflação _(IPCA)_ ou CELIC
@@ -31,7 +58,7 @@ Empresta seu dinheiro ao tesouro nacional por um determinado prazo fixo, com tax
 - Rende 100% da taxa SELIC (OVER)
 - Pode resgatar a qualquer momento (alta liquidez)
 
-## Renda váriavel
+### Renda váriavel
 Não tem qualquer acordo prévio, fixo, em relação a remnueração do capital investido.
 
 **Renda fixa**: Pode estimar o lucro ou prejuízo
@@ -59,7 +86,7 @@ Tudo isso serve para fundos de investimento imobiliários, comprar de gerenciame
 
 Essas ações não se baseiam em especulações... **Pensar a longo prazo.**
 
-## Planos de aposentadoria PGBL e VGBL (Previdência Privada)
+### Planos de aposentadoria PGBL e VGBL (Previdência Privada)
 
 - Ambos são planos para sua apostenadoria, e possuem benefício de tributação regressiva (35% - 10%)
 - Tributação mensal
@@ -82,11 +109,13 @@ Pegadinhas sobre Prev. Privada:
 
 _Necessita ouvir de novo p/ tirar dúvidas..._
 
-## Taxa Selic
+## Outros
+
+### Taxa Selic
 
 ...
 
-## 5 Dicas para investir em 2019
+### 5 Dicas para investir em 2019
 **Tesouro SELIC**
 **Ações de empresas sólidas** <br>
 Expectativa do mercado crescer
