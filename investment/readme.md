@@ -1,7 +1,5 @@
 # Maior resumo de educação financeira que você vai ver
 
-E outras fontes...
-
 ##### Links: 
 1. [Youtube - Me Poupe](https://www.youtube.com/channel/UC8mDF5mWNGE-Kpfcvnn0bUg)
 2. [Youtube - Primo Rico](https://www.youtube.com/user/thigas)
@@ -9,38 +7,48 @@ E outras fontes...
 
 ## Conselhos em geral
 
-- Dùvida aonde investir? Plane suas estratégias
-- Se atentar as taxas de transfêrencia para corretoras
-- <b>Sempre olhar para três coisas:</b> <br>
-Rentabilidade <br>
-Risco <br>
-Liquidez <br>
+- Dùvida aonde investir? Plane suas estratégias e objetivos
+- Se atentar as taxas de transfêrencia para corretoras que seu banco cobra
+- **Sempre olhar para três coisas:**
+1. Rentabilidade 
+2. Risco 
+3. Liquidez 
 
 ## Início
 
-1. <b>Sair das dívidas, antes de tudo </b>
-2. <b>Construir sua Reserva de emergência</b> <br>
-Risco baixa e alta liquidez <br>
- 12 meses do seu gasto mensal. <br>
- Tesouro Celic <br>
- Fundo DI <br>
- CDB de liquidez diária <br>
-3. <b>Planejar aposentadoria</b> <br>
-Não precisa liquidez alta <br>
-Ações <br>
-Fundo imobíliarios <br>
-Fundos <br>
-Debêntures <br>
-Tesouro IPCA
-4. <b>Criar conta corretora</b>
-5. <b>Criar conta banco digital</b> <br>
+1. **Sair das dívidas, antes de tudo**
+2. **Construir sua Reserva de emergência**
+
+Ativos com baixo risco e alta liquidez <br>
+
+<b>Recomendado:</b>
+ - Tesouro Celic 
+ - Fundo DI 
+ - CDB de liquidez diária 
+
+
+3. **Planejar aposentadoria** <br>
+Não precisa de alta liquidez pois você não quer retirar em curto prazo
+
+**Recomendado**
+- Ações 
+- Fundo imobíliarios 
+- Fundos 
+- Debêntures 
+- Tesouro IPCA
+
+4. **Criar conta corretora** <br>
+...
+
+5. **Criar conta banco digital** <br>
 Poucas e baixas taxas
 
 
 ## Ativos e explicações
 
 ### Renda Fixa
-Quando empresta para o Banco: Renda fixa privada <br>
+Quando empresta para o Banco: Renda fixa privada 
+
 Quando é para o governo: Renda fixa de títulos publicos (Renda fixa pública)
 
 - Pré Fixado: Já sabe qual vai ser a remuneração do dinheiro investido, no momento da contratação
