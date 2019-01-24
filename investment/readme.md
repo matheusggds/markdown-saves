@@ -116,7 +116,7 @@ _Necessita ouvir de novo p/ tirar dúvidas..._
 ...
 
 ### 5 Dicas para investir em 2019
-**Tesouro SELIC**
+**Tesouro SELIC** <br>
 **Ações de empresas sólidas** <br>
 Expectativa do mercado crescer
 
@@ -124,7 +124,7 @@ Expectativa do mercado crescer
 - Depende do valor inicial e prazo
 - Ficar atento ao FGC (Fundo Garantidor de Crédito)
 
-**Fundos Imobíliarios**
+**Fundos Imobíliarios** <br>
 **Fundos Multimercado**
 Paga taxa de Administração
 
