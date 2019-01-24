@@ -9,6 +9,7 @@ E outras fontes...
 
 ## Conselhos em geral
 
+- Dùvida aonde investir? Plane suas estratégias
 - Se atentar as taxas de transfêrencia para corretoras
 - <b>Sempre olhar para três coisas:</b> <br>
 Rentabilidade <br>
