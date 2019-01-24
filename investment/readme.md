@@ -7,7 +7,9 @@ E outras fontes...
 2. [Youtube - Primo Rico](https://www.youtube.com/user/thigas)
 3. [Youtube - Gustavo Cerbasi](https://www.youtube.com/channel/UC_mSfchV-fgpPy-vuwML8_A)
 
-### Renda Fixa
+## Conselhos
+
+## Renda Fixa
 Quando empresta para o Banco: Renda fixa privada <br>
 Quando é para o governo: Renda fixa de títulos publicos (Renda fixa pública)
 
@@ -42,7 +44,7 @@ Não tem qualquer acordo prévio, fixo, em relação a remnueração do capital 
 
 Produtos atrelados: Ações e fundos de investimento imobiliario.
 
-###### Como avaliar?
+**Como avaliar?** <br>
 Você deve partir da premissa que as cotações das ações refletem a saúde efetiva da empresa e não especulações. 
 
 Renda variavel, vinculado a ativos reais (empresas ou imoveis que estão sendo alugados). A cotação a longo prazo desses produtos necessariamente vão refletir a saúde desses ativos que eles refletem.
@@ -86,21 +88,21 @@ _Necessita ouvir de novo p/ tirar dúvidas..._
 - Tem liquidez imediata (Max. 2 dias)
 
 
-### 5 Dicas para investir em 2019
-##### Tesouro SELIC
+## 5 Dicas para investir em 2019
+**Tesouro SELIC** <br>
 
 > Toda vez que fica abaixo de 8.5% significa que a poupança vai render 70% da SELIC + TR (Fazendo com que a Poupança renda menos que a SELIC)
 
 - Tem liquidez imediata (Max. 2 dias)
-##### Ações de empresas sólidas
+**Ações de empresas sólidas** <br>
 Expectativa do mercado crescer
 
-##### Renda FIXA bancos pequenos (Renda fixa PRIVADA)
+**Renda FIXA bancos pequenos (Renda fixa PRIVADA)**
 - Depende do valor inicial e prazo
 - Ficar atento ao FGC (Fundo Garantidor de Crédito)
 
-##### Fundos Imobíliarios
-##### Fundos Multimercado
+**Fundos Imobíliarios**
+**Fundos Multimercado**
 Paga taxa de Administração
 
 
