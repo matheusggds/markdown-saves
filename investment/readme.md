@@ -19,15 +19,15 @@ Quando é para o governo: Renda fixa de títulos publicos (Renda fixa pública)
 Prejuízo: Não receber o valor _combinado_
 
 ## Tesouro direto
-Bom para investidor amador para patrimônio sólido
 > Significa compra de títulos públicos do governo federal diretamente pelo cidadão
 
 Empresta seu dinheiro ao tesouro nacional por um determinado prazo fixo, com taxa de juros já combinada _(Pré fixado)_, atrelado a inflação _(IPCA)_ ou CELIC
 
-- Mais seguro
-- Mais seguro até que bancos como CDB, LCI
+**Tesouro Selic** <br>
 
-Lembre-se: **TODO INVESTIMENTO TEM RISCOS**
+- Basicamente a aplicação mais conservadora do Brasil
+- Rende 100% da taxa SELIC (OVER)
+- Pode resgatar a qualquer momento (alta liquidez)
 
 ## Renda váriavel
 Não tem qualquer acordo prévio, fixo, em relação a remnueração do capital investido.
@@ -82,11 +82,7 @@ _Necessita ouvir de novo p/ tirar dúvidas..._
 
 ## Taxa Selic
 
-> Toda vez que fica abaixo de 8.5% significa que a poupança vai render 70% da SELIC + TR (Fazendo com que a Poupança renda menos que a SELIC)
-
-
-- Tem liquidez imediata (Max. 2 dias)
-
+...
 
 ## 5 Dicas para investir em 2019
 **Tesouro SELIC** <br>
