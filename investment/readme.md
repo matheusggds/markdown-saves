@@ -7,6 +7,8 @@
 
 ## Conselhos em geral
 
+> Investimento é um negócio a parte do seu trabalho principal
+
 - Dùvida aonde investir? Plane suas estratégias e objetivos
 - Se atentar as taxas de transfêrencia para corretoras que seu banco cobra
 - **Sempre olhar para três coisas:**
@@ -42,7 +44,6 @@ Não precisa de alta liquidez pois você não quer retirar em curto prazo
 
 5. **Criar conta banco digital** <br>
 Poucas e baixas taxas
-
 
 ## Ativos e explicações
 
