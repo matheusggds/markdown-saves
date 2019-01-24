@@ -7,6 +7,38 @@ E outras fontes...
 2. [Youtube - Primo Rico](https://www.youtube.com/user/thigas)
 3. [Youtube - Gustavo Cerbasi](https://www.youtube.com/channel/UC_mSfchV-fgpPy-vuwML8_A)
 
+## Conselhos em geral
+
+- Dùvida aonde investir? Plane suas estratégias
+- Se atentar as taxas de transfêrencia para corretoras
+- <b>Sempre olhar para três coisas:</b> <br>
+Rentabilidade <br>
+Risco <br>
+Liquidez <br>
+
+## Início
+
+1. <b>Sair das dívidas, antes de tudo </b>
+2. <b>Construir sua Reserva de emergência</b> <br>
+Risco baixa e alta liquidez <br>
+ 12 meses do seu gasto mensal. <br>
+ Tesouro Celic <br>
+ Fundo DI <br>
+ CDB de liquidez diária <br>
+3. <b>Planejar aposentadoria</b> <br>
+Não precisa liquidez alta <br>
+Ações <br>
+Fundo imobíliarios <br>
+Fundos <br>
+Debêntures <br>
+Tesouro IPCA
+4. <b>Criar conta corretora</b>
+5. <b>Criar conta banco digital</b> <br>
+Poucas e baixas taxas
+
+
+## Ativos e explicações
+
 ### Renda Fixa
 Quando empresta para o Banco: Renda fixa privada <br>
 Quando é para o governo: Renda fixa de títulos publicos (Renda fixa pública)
@@ -16,18 +48,18 @@ Quando é para o governo: Renda fixa de títulos publicos (Renda fixa pública)
 
 Prejuízo: Não receber o valor _combinado_
 
-## Tesouro direto
-Bom para investidor amador para patrimônio sólido
+### Tesouro direto
 > Significa compra de títulos públicos do governo federal diretamente pelo cidadão
 
 Empresta seu dinheiro ao tesouro nacional por um determinado prazo fixo, com taxa de juros já combinada _(Pré fixado)_, atrelado a inflação _(IPCA)_ ou CELIC
 
-- Mais seguro
-- Mais seguro até que bancos como CDB, LCI
+**Tesouro Selic** <br>
 
-Lembre-se: **TODO INVESTIMENTO TEM RISCOS**
+- Basicamente a aplicação mais conservadora do Brasil
+- Rende 100% da taxa SELIC (OVER)
+- Pode resgatar a qualquer momento (alta liquidez)
 
-## Renda váriavel
+### Renda váriavel
 Não tem qualquer acordo prévio, fixo, em relação a remnueração do capital investido.
 
 **Renda fixa**: Pode estimar o lucro ou prejuízo
@@ -42,7 +74,7 @@ Não tem qualquer acordo prévio, fixo, em relação a remnueração do capital 
 
 Produtos atrelados: Ações e fundos de investimento imobiliario.
 
-###### Como avaliar?
+**Como avaliar?** <br>
 Você deve partir da premissa que as cotações das ações refletem a saúde efetiva da empresa e não especulações. 
 
 Renda variavel, vinculado a ativos reais (empresas ou imoveis que estão sendo alugados). A cotação a longo prazo desses produtos necessariamente vão refletir a saúde desses ativos que eles refletem.
@@ -55,7 +87,7 @@ Tudo isso serve para fundos de investimento imobiliários, comprar de gerenciame
 
 Essas ações não se baseiam em especulações... **Pensar a longo prazo.**
 
-## Planos de aposentadoria PGBL e VGBL (Previdência Privada)
+### Planos de aposentadoria PGBL e VGBL (Previdência Privada)
 
 - Ambos são planos para sua apostenadoria, e possuem benefício de tributação regressiva (35% - 10%)
 - Tributação mensal
@@ -78,29 +110,23 @@ Pegadinhas sobre Prev. Privada:
 
 _Necessita ouvir de novo p/ tirar dúvidas..._
 
-## Taxa Selic
+## Outros
 
-> Toda vez que fica abaixo de 8.5% significa que a poupança vai render 70% da SELIC + TR (Fazendo com que a Poupança renda menos que a SELIC)
+### Taxa Selic
 
-
-- Tem liquidez imediata (Max. 2 dias)
-
+...
 
 ### 5 Dicas para investir em 2019
-##### Tesouro SELIC
-
-> Toda vez que fica abaixo de 8.5% significa que a poupança vai render 70% da SELIC + TR (Fazendo com que a Poupança renda menos que a SELIC)
-
-- Tem liquidez imediata (Max. 2 dias)
-##### Ações de empresas sólidas
+**Tesouro SELIC** <br>
+**Ações de empresas sólidas** <br>
 Expectativa do mercado crescer
 
-##### Renda FIXA bancos pequenos (Renda fixa PRIVADA)
+**Renda FIXA bancos pequenos (Renda fixa PRIVADA)**
 - Depende do valor inicial e prazo
 - Ficar atento ao FGC (Fundo Garantidor de Crédito)
 
-##### Fundos Imobíliarios
-##### Fundos Multimercado
+**Fundos Imobíliarios** <br>
+**Fundos Multimercado**
 Paga taxa de Administração
 
 
