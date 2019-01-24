@@ -9,6 +9,8 @@ E outras fontes...
 
 ## Conselhos
 
+- Se atentar as taxas de transfêrencia para corretoras
+
 ## Renda Fixa
 Quando empresta para o Banco: Renda fixa privada <br>
 Quando é para o governo: Renda fixa de títulos publicos (Renda fixa pública)
