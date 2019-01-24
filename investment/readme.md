@@ -17,7 +17,7 @@ Liquidez <br>
 
 ## Início
 
-1. Sair das dívidas, antes de tudo
+1. <b>Sair das dívidas, antes de tudo </b>
 2. <b>Construir sua Reserva de emergência</b> <br>
 Risco baixa e alta liquidez <br>
  12 meses do seu gasto mensal. <br>
@@ -25,14 +25,14 @@ Risco baixa e alta liquidez <br>
  Fundo DI <br>
  CDB de liquidez diária <br>
 3. <b>Planejar aposentadoria</b> <br>
-Não precisa liquidez alta
+Não precisa liquidez alta <br>
 Ações <br>
 Fundo imobíliarios <br>
 Fundos <br>
 Debêntures <br>
 Tesouro IPCA
-4. Criar conta corretora
-5. Criar conta banco digital <br>
+4. <b>Criar conta corretora</b>
+5. <b>Criar conta banco digital</b> <br>
 Poucas e baixas taxas
 
 
