@@ -85,11 +85,7 @@ _Necessita ouvir de novo p/ tirar dúvidas..._
 ...
 
 ## 5 Dicas para investir em 2019
-**Tesouro SELIC** <br>
-
-> Toda vez que fica abaixo de 8.5% significa que a poupança vai render 70% da SELIC + TR (Fazendo com que a Poupança renda menos que a SELIC)
-
-- Tem liquidez imediata (Max. 2 dias)
+**Tesouro SELIC**
 **Ações de empresas sólidas** <br>
 Expectativa do mercado crescer
 
