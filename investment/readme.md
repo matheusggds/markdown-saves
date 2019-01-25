@@ -28,7 +28,6 @@ Ativos com baixo risco e alta liquidez <br>
  - Fundo DI 
  - CDB de liquidez diária 
 
-
 3. **Planejar aposentadoria** <br>
 Não precisa de alta liquidez pois você não quer retirar em curto prazo
 
@@ -45,9 +44,12 @@ Não precisa de alta liquidez pois você não quer retirar em curto prazo
 5. **Criar conta banco digital** <br>
 Poucas e baixas taxas
 
+### Dicas
+- [Decisões para tomar que facilitarão seus investimentos]((https://github.com/matheusggds/markdown-saves/tree/master/investment#5-decisoes-para-tomar-hoje))
+
 ## Ativos e explicações
 
-### Renda Fixa
+## Renda Fixa
 Quando empresta para o Banco: Renda fixa privada 
 
 Quando é para o governo: Renda fixa de títulos publicos (Renda fixa pública)
@@ -57,7 +59,7 @@ Quando é para o governo: Renda fixa de títulos publicos (Renda fixa pública)
 
 Prejuízo: Não receber o valor _combinado_
 
-### Tesouro direto
+## Tesouro direto
 > Significa compra de títulos públicos do governo federal diretamente pelo cidadão
 
 Empresta seu dinheiro ao tesouro nacional por um determinado prazo fixo, com taxa de juros já combinada _(Pré fixado)_, atrelado a inflação _(IPCA)_ ou CELIC
@@ -68,7 +70,7 @@ Empresta seu dinheiro ao tesouro nacional por um determinado prazo fixo, com tax
 - Rende 100% da taxa SELIC (OVER)
 - Pode resgatar a qualquer momento (alta liquidez)
 
-### Renda váriavel
+## Renda váriavel
 Não tem qualquer acordo prévio, fixo, em relação a remnueração do capital investido.
 
 **Renda fixa**: Pode estimar o lucro ou prejuízo
@@ -96,7 +98,7 @@ Tudo isso serve para fundos de investimento imobiliários, comprar de gerenciame
 
 Essas ações não se baseiam em especulações... **Pensar a longo prazo.**
 
-### Planos de aposentadoria PGBL e VGBL (Previdência Privada)
+## Planos de aposentadoria PGBL e VGBL (Previdência Privada)
 
 - Ambos são planos para sua apostenadoria, e possuem benefício de tributação regressiva (35% - 10%)
 - Tributação mensal
@@ -172,8 +174,26 @@ Não pode deixar todo seu patrimônio em um só lugar!!
 3. Fundos imobíliarios
 4. CDB liquidez imediata (se render mais que o tesouro selic)
 
-## 5 decisões para tomar HOJE!
+## Decisões para tomar HOJE!
+[Poupe Me](https://www.youtube.com/watch?v=R31tTqPRv1o)
 
 1. Fazer o que ama, e não o que da mais dinheiro
-2. Viver 1 ou 2 degrais abaixo
+2. [Viver 1 ou 2 degrais abaixo](https://github.com/matheusggds/markdown-saves/tree/master/investment#viver-um-degrau-abaixo)
+
+Não adianta ficar parado esperando você ganhar mais, se ajuste a sua realidade.
+
+3. Blefe (meh, 'ganhar um salario melhor na hora da contratacao')
+4. Investir sozinha
+
+## Viver um degrau abaixo
+
+Pra ter dinheiro a regra é clara: viva um degrau abaixo e siga este passo a passo da regra 70/30 que eu explico de um jeito super simples nessa pérola MEPOUPENSE!
+
+Lembrando que:
+- 55%para essenciais
+- 5% para educação
+- 10% para fazer o que quiser
+- 30% para os sonhos futuros
+
+E vai dar tudo certo. Ah vai!
 
