@@ -16,6 +16,8 @@
 2. Risco 
 3. Liquidez 
 
+- [Decisões para tomar que facilitarão seus investimentos](https://github.com/matheusggds/markdown-saves/tree/master/investment#5-decisoes-para-tomar-hoje)
+
 ## Início
 
 1. **Sair das dívidas, antes de tudo**
@@ -43,9 +45,6 @@ Não precisa de alta liquidez pois você não quer retirar em curto prazo
 
 5. **Criar conta banco digital** <br>
 Poucas e baixas taxas
-
-### Dicas
-- [Decisões para tomar que facilitarão seus investimentos]((https://github.com/matheusggds/markdown-saves/tree/master/investment#5-decisoes-para-tomar-hoje))
 
 ## Ativos e explicações
 
