@@ -172,10 +172,8 @@ Não pode deixar todo seu patrimônio em um só lugar!!
 3. Fundos imobíliarios
 4. CDB liquidez imediata (se render mais que o tesouro selic)
 
+## 5 decisões para tomar HOJE!
 
-
-
-
-
-
+1. Fazer o que ama, e não o que da mais dinheiro
+2. Viver 1 ou 2 degrais abaixo
 
