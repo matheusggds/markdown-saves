@@ -138,6 +138,40 @@ Expectativa do mercado crescer
 **Fundos Multimercado**
 Paga taxa de Administração
 
+## Viver de Renda
+
+[Viver de renda - Poupe Me](https://www.youtube.com/watch?v=DWUmMvlgH3M)
+
+Viver de renda é acumular patriomnio suficiente que todos os meses esse dinheiro vai voltar para você.
+
+Para você viver de renda, você precisa ter parte do seu dinheiro disponível. Liquidez alta.
+
+```
+1. Conta em corretora (óbvio)
+
+2. Quanto eu preciso para viver de renda?
+
+Você preciso viver com 0,3% do seu patrimônio investido. <br>
+Ex.: Para viver com R$15.000,00 reais, você precisa de R$5.000.000,00 investidos.
+
+3. Onde investir?
+
+Como você vai viver de renda, não é interessante deixar todo seu patrimônio em um investimento com liquidez baixa.
+
+Estratégias: Deixa uma parte desse patrimonio com vencimento a longo prazo, que gere mais juros. E uma outras parte em liquidez imediata.
+
+**Vale a penda deixar na previdência privada para viver de renda? SIM** *
+
+Mas não é todo seu dinheiro nem a maior parte que deve ficar na previdencia privada. Problema: Segurança
+```
+
+Não pode deixar todo seu patrimônio em um só lugar!!
+
+1. Tesouro Selic (Alta liquidez)
+2. Ações de boas empresas
+3. Fundos imobíliarios
+4. CDB liquidez imediata (se render mais que o tesouro selic)
+
 
 
 
