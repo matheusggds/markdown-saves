@@ -10,7 +10,8 @@
 
 ##### Links: 
 1. [Youtube - Me Poupe](https://www.youtube.com/channel/UC8mDF5mWNGE-Kpfcvnn0bUg)
-2. Investindo sem mistério - Marcelo Cunha de Araújo
+2. [Investindo sem mistério - Marcelo Cunha de Araújo](https://www.amazon.com.br/Investindo-sem-Mist%C3%A9rio-multiplicar-patrim%C3%B4nio-ebook/dp/B01KYFYAE2/ref=sr_1_1?ie=UTF8&qid=1548628208&sr=8-1&keywords=investindo+sem+mist%C3%A9rio)
+3. [r/investimentos](https://www.reddit.com/r/investimentos)
 2. [Youtube - Primo Rico](https://www.youtube.com/user/thigas)
 3. [Youtube - Gustavo Cerbasi](https://www.youtube.com/channel/UC_mSfchV-fgpPy-vuwML8_A)
 
@@ -20,40 +21,46 @@
 
 - Dùvida aonde investir? [Planeje suas estratégias e objetivos](https://www.youtube.com/watch?v=eMQZRHoIgtQ)
 - Se atentar as taxas de transfêrencia para corretoras que seu banco cobra
-- **Sempre olhar para três coisas:** <br>
- -- Rentabilidade <br>
- -- Risco <br>
- -- Liquidez 
+- **Sempre olhar para três coisas:** 
+    * Rentabilidade 
+    * Risco 
+    * Liquidez 
 
 - [Decisões para tomar que facilitarão seus investimentos](https://github.com/matheusggds/markdown-saves/tree/master/investment#decis%C3%B5es-para-tomar-hoje)
+- Você deve dedicar uma certa quanidade de tempo aos investimentos.
 
 ## Início 
 
-1. **Sair das dívidas, antes de tudo**
-2. **Construir sua Reserva de emergência**
+1. [**Definir objetivos**](https://www.youtube.com/watch?v=eMQZRHoIgtQ)
+    * Antes de mais nada, é importante que você tenha consciência do que quer da sua vida financeira. Quer poupar para comprar uma casa? Quer juntar para viajar no final do ano? Quer ter uma renda extra para ficar menos dependente do trabalho? Ou, melhor ainda, quer conseguir se aposentar sem ter que depender do governo/previdência privada? A resposta para a pergunta “o que eu quero?” vai guiar seus investimentos, inclusive seu perfil de risco, necessidade de liquidez e produtos recomendados
 
-Ativos com baixo risco e alta liquidez <br>
+2. **Sair das dívidas**
+    * Dever dinheiro é ruim. Dever dinheiro no Brasil, que tem juros altíssimos, é pior ainda. Se você tem dívidas de cartão de crédito ou cheque especial, pague isso o mais rápido possível, pois são juros completamente abusivos. Dívidas como empréstimos pessoais e financiamentos podem ser benéficas,dependendo da taxa de juros, mas nunca deixe atrasar – pague as parcelas em dia, e adiante parcelas se achar que vale a pena
 
-<b>Recomendado:</b>
- - Tesouro Celic 
- - Fundo DI 
- - CDB de liquidez diária 
+3. **Construir sua Reserva de emergência**
+    * Um fundo de emergência é um valor deixado em aplicações mais líquidas (poupança, ou CDB com liquidez diária), para se proteger de imprevistos – por exemplo, gastos médicos, reparos no carro, uma necessidade de viagem repentina, etc. Esse fundo também é um “colchão de liquidez”, caso você precise de dinheiro (por exemplo, caso você perca o emprego), você pode usar o dinheiro que está aqui ao invés de sacar dos seus investimentos <br> <br>
+-Quanto dinheiro devo deixar no meu fundo de emergência? Isso depende de você, mas normalmente 3-6 meses de gastos é o recomendável. Algumas pessoas preferem pensar em termos de ganhos, eu por exemplo deixo 3 meses de salário no meu fundo de emergência.
 
-3. **Planejar aposentadoria** <br>
-Não precisa de alta liquidez pois você não quer retirar em curto prazo
+4. **Criar conta em uma corretora**
+    - Não vale a pena investir através de banco. Corretoras tem mais variedade de produto, e taxas mais atrativas. As mais recomendadas são Rico, XP e Easynvest, mas faça uma pesquisa por conta própria para ver qual te agrada mais.
 
-**Recomendado**
-- Ações 
-- Fundo imobíliarios 
-- Fundos 
-- Debêntures 
-- Tesouro IPCA
+5. **Comece a investir em produtos simples e seguros**
+    - Enquanto você tem pouco dinheiro investido (e pouco conhecimento), vale mais a pena investir em produtos de renda fixa – esses investimentos são mais seguros porque, a não ser em um colapso total da economia, seu dinheiro inicial está protegido <br> <br>
 
-4. **Criar conta corretora** <br>
-...
+    1. Tesouro Direto,
+    2. CDB
+    3. LCI/LCA
 
-5. **Criar conta banco digital** <br>
-Poucas e baixas taxas
+6. **Estude**
+    - procure sites, livros, amigos, etc., que possam te ajudar a entender mais de investimentos, para que você se sinta confiante em avançar para o passo 
+
+7. **NUNCA INVISTA NO QUE VOCÊ NÃO ENTENDE, é uma garantia de se perder dinheiro.**
+
+8. **Renda variável**
+    - fundos, ETFs, câmbio, ações, opções... são investimentos mais arriscados, onde é possível perder parte do dinheiro inicial investido (e em alguns casos, como opções, você pode até sair devendo mais dinheiro do que colocou). Sempre que for colocar dinheiro aqui, pense bem sobre seus objetivos, e sobre sua tolerância ao risco – é fácil olhar só para a promessa de retornos maiores, sem pensar que você pode perder muito dinheiro aqui.
+
+9. **Aproveite**
+    - Tudo deu certo e você agora tem vários investimentos, te proporcionando uma renda passiva que complementa (ou até supera) seu salário? Meus parabéns, você conseguiu o sonho de muita gente de virar independente financeiramente. Continue gerenciando seus investimentos para manter (ou aumentar) seu retorno, e vá aproveitar a vida sem se preocupar em perder o emprego ou ter uma emergência, sabendo que você construiu pra si mesmo uma sólida rede de segurança financeira.
 
 ## Ativos e explicações
 
