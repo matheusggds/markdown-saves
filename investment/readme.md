@@ -20,12 +20,12 @@
 
 - Dùvida aonde investir? [Planeje suas estratégias e objetivos](https://www.youtube.com/watch?v=eMQZRHoIgtQ)
 - Se atentar as taxas de transfêrencia para corretoras que seu banco cobra
-- **Sempre olhar para três coisas:**
-* Rentabilidade 
-* Risco 
-* Liquidez 
+- **Sempre olhar para três coisas:** <br>
+ -- Rentabilidade <br>
+ -- Risco <br>
+ -- Liquidez 
 
-- [Decisões para tomar que facilitarão seus investimentos](https://github.com/matheusggds/markdown-saves/tree/master/investment#5-decisoes-para-tomar-hoje)
+- [Decisões para tomar que facilitarão seus investimentos](https://github.com/matheusggds/markdown-saves/tree/master/investment#decis%C3%B5es-para-tomar-hoje)
 
 ## Início
 
