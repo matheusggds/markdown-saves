@@ -8,10 +8,11 @@
 >
 >-- <cite> Albert Einstein </cite>
 
-##### Links: 
+##### Links / Fonte: 
 1. [Youtube - Me Poupe](https://www.youtube.com/channel/UC8mDF5mWNGE-Kpfcvnn0bUg)
 2. [Investindo sem mistério - Marcelo Cunha de Araújo](https://www.amazon.com.br/Investindo-sem-Mist%C3%A9rio-multiplicar-patrim%C3%B4nio-ebook/dp/B01KYFYAE2/ref=sr_1_1?ie=UTF8&qid=1548628208&sr=8-1&keywords=investindo+sem+mist%C3%A9rio)
 3. [r/investimentos](https://www.reddit.com/r/investimentos)
+4. [Podcast - Dicas curtas, O investidor inteligente](https://dicascurtas.com.br/expert-investidor-inteligente)
 2. [Youtube - Primo Rico](https://www.youtube.com/user/thigas)
 3. [Youtube - Gustavo Cerbasi](https://www.youtube.com/channel/UC_mSfchV-fgpPy-vuwML8_A)
 
