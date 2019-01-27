@@ -63,9 +63,7 @@
 9. **Aproveite**
     - Tudo deu certo e você agora tem vários investimentos, te proporcionando uma renda passiva que complementa (ou até supera) seu salário? Meus parabéns, você conseguiu o sonho de muita gente de virar independente financeiramente. Continue gerenciando seus investimentos para manter (ou aumentar) seu retorno, e vá aproveitar a vida sem se preocupar em perder o emprego ou ter uma emergência, sabendo que você construiu pra si mesmo uma sólida rede de segurança financeira.
 
-## Ativos e explicações
-
-## Renda Fixa
+### Renda Fixa
 Quando empresta para o Banco: Renda fixa privada 
 
 Quando é para o governo: Renda fixa de títulos publicos (Renda fixa pública)
@@ -75,18 +73,7 @@ Quando é para o governo: Renda fixa de títulos publicos (Renda fixa pública)
 
 Prejuízo: Não receber o valor _combinado_
 
-## Tesouro direto
-> Significa compra de títulos públicos do governo federal diretamente pelo cidadão
-
-Empresta seu dinheiro ao tesouro nacional por um determinado prazo fixo, com taxa de juros já combinada _(Pré fixado)_, atrelado a inflação _(IPCA)_ ou CELIC
-
-**Tesouro Selic** <br>
-
-- Basicamente a aplicação mais conservadora do Brasil
-- Rende 100% da taxa SELIC (OVER)
-- Pode resgatar a qualquer momento (alta liquidez)
-
-## Renda váriavel
+### Renda váriavel
 Não tem qualquer acordo prévio, fixo, em relação a remnueração do capital investido.
 
 **Renda fixa**: Pode estimar o lucro ou prejuízo
@@ -114,7 +101,24 @@ Tudo isso serve para fundos de investimento imobiliários, comprar de gerenciame
 
 Essas ações não se baseiam em especulações... **Pensar a longo prazo.**
 
-## Planos de aposentadoria PGBL e VGBL (Previdência Privada)
+## Ativos
+
+### Tesouro direto
+> Significa compra de títulos públicos do governo federal diretamente pelo cidadão
+
+Empresta seu dinheiro ao tesouro nacional por um determinado prazo fixo, com taxa de juros já combinada _(Pré fixado)_, atrelado a inflação _(IPCA)_ ou CELIC
+
+**Tesouro Selic** <br>
+
+- Basicamente a aplicação mais conservadora do Brasil
+- Rende 100% da taxa SELIC (OVER)
+- Pode resgatar a qualquer momento (alta liquidez)
+
+### LCI e LCA
+
+- Isento de Imposto de Renda
+
+### Planos de aposentadoria PGBL e VGBL (Previdência Privada)
 
 - Ambos são planos para sua apostenadoria, e possuem benefício de tributação regressiva (35% - 10%)
 - Tributação mensal
@@ -137,18 +141,14 @@ Pegadinhas sobre Prev. Privada:
 
 _Necessita ouvir de novo p/ tirar dúvidas..._
 
-## LCI e LCA
-
-- Isento de Imposto de Renda
-
 
 ## Outros
 
-## Taxa Selic
+### Taxa Selic
 
 ...
 
-## 5 Dicas para investir em 2019
+### 5 Dicas para investir em 2019
 **Tesouro SELIC** <br>
 **Ações de empresas sólidas** <br>
 Expectativa do mercado crescer
@@ -161,7 +161,7 @@ Expectativa do mercado crescer
 **Fundos Multimercado**
 Paga taxa de Administração
 
-## Viver de Renda
+### Viver de Renda
 
 [Viver de renda - Poupe Me](https://www.youtube.com/watch?v=DWUmMvlgH3M)
 
@@ -195,7 +195,7 @@ Não pode deixar todo seu patrimônio em um só lugar!!
 3. Fundos imobíliarios
 4. CDB liquidez imediata (se render mais que o tesouro selic)
 
-## Decisões para tomar HOJE!
+### Decisões para tomar HOJE!
 [Poupe Me](https://www.youtube.com/watch?v=R31tTqPRv1o)
 
 1. Fazer o que ama, e não o que da mais dinheiro
@@ -206,7 +206,7 @@ Não adianta ficar parado esperando você ganhar mais, se ajuste a sua realidade
 3. Blefe (meh, 'ganhar um salario melhor na hora da contratacao')
 4. Investir sozinha
 
-## Viver um degrau abaixo
+### Viver um degrau abaixo
 
 Pra ter dinheiro a regra é clara: viva um degrau abaixo e siga este passo a passo da regra 70/30 que eu explico de um jeito super simples nessa pérola MEPOUPENSE!
 
