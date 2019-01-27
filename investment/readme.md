@@ -1,10 +1,10 @@
 # Maior resumo de educação financeira que você vai ver
 
-> “Não estimes o dinheiro nem mais, nem menos do que ele vale: é um bom servidor e um péssimo amo”
+> Não estimes o dinheiro nem mais, nem menos do que ele vale: é um bom servidor e um péssimo amo
 >
 > -- <cite>Alexandre Dumas Filho</cite>
 
-> “Os juros compostos são a maior invenção da Humanidade pois permitem uma confiável e sistemática acumulação de riqueza”
+> Os juros compostos são a maior invenção da Humanidade pois permitem uma confiável e sistemática acumulação de riqueza
 >
 >-- <cite> Albert Einstein </cite>
 
@@ -27,7 +27,7 @@
 
 - [Decisões para tomar que facilitarão seus investimentos](https://github.com/matheusggds/markdown-saves/tree/master/investment#decis%C3%B5es-para-tomar-hoje)
 
-## Início
+## Início 
 
 1. **Sair das dívidas, antes de tudo**
 2. **Construir sua Reserva de emergência**
