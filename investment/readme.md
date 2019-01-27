@@ -2,6 +2,7 @@
 
 ##### Links: 
 1. [Youtube - Me Poupe](https://www.youtube.com/channel/UC8mDF5mWNGE-Kpfcvnn0bUg)
+2. Investindo sem mistério - Marcelo Cunha de Araújo
 2. [Youtube - Primo Rico](https://www.youtube.com/user/thigas)
 3. [Youtube - Gustavo Cerbasi](https://www.youtube.com/channel/UC_mSfchV-fgpPy-vuwML8_A)
 
@@ -119,6 +120,11 @@ Pegadinhas sobre Prev. Privada:
 - Rentabilidade baixa
 
 _Necessita ouvir de novo p/ tirar dúvidas..._
+
+## LCI e LCA
+
+- Isento de Imposto de Renda
+
 
 ## Outros
 
