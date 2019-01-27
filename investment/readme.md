@@ -1,9 +1,11 @@
 # Maior resumo de educação financeira que você vai ver
 
 > “Não estimes o dinheiro nem mais, nem menos do que ele vale: é um bom servidor e um péssimo amo”
+>
 > -- <cite>Alexandre Dumas Filho</cite>
 
 > “Os juros compostos são a maior invenção da Humanidade pois permitem uma confiável e sistemática acumulação de riqueza”
+>
 >-- <cite> Albert Einstein </cite>
 
 ##### Links: 
