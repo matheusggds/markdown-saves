@@ -18,12 +18,12 @@
 
 > Investimento é um negócio a parte do seu trabalho principal
 
-- Dùvida aonde investir? Plane suas estratégias e objetivos
+- Dùvida aonde investir? [Planeje suas estratégias e objetivos](https://www.youtube.com/watch?v=eMQZRHoIgtQ)
 - Se atentar as taxas de transfêrencia para corretoras que seu banco cobra
 - **Sempre olhar para três coisas:**
-1. Rentabilidade 
-2. Risco 
-3. Liquidez 
+* Rentabilidade 
+* Risco 
+* Liquidez 
 
 - [Decisões para tomar que facilitarão seus investimentos](https://github.com/matheusggds/markdown-saves/tree/master/investment#5-decisoes-para-tomar-hoje)
 
