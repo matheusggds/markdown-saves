@@ -30,7 +30,7 @@
 - [Decisões para tomar que facilitarão seus investimentos](https://github.com/matheusggds/markdown-saves/tree/master/investment#decis%C3%B5es-para-tomar-hoje)
 - Você deve dedicar uma certa quanidade de tempo aos investimentos.
 
-## Início 
+## Resumo da caminhada
 
 1. [**Definir objetivos**](https://www.youtube.com/watch?v=eMQZRHoIgtQ)
     * Antes de mais nada, é importante que você tenha consciência do que quer da sua vida financeira. Quer poupar para comprar uma casa? Quer juntar para viajar no final do ano? Quer ter uma renda extra para ficar menos dependente do trabalho? Ou, melhor ainda, quer conseguir se aposentar sem ter que depender do governo/previdência privada? A resposta para a pergunta “o que eu quero?” vai guiar seus investimentos, inclusive seu perfil de risco, necessidade de liquidez e produtos recomendados
@@ -62,6 +62,34 @@
 
 9. **Aproveite**
     - Tudo deu certo e você agora tem vários investimentos, te proporcionando uma renda passiva que complementa (ou até supera) seu salário? Meus parabéns, você conseguiu o sonho de muita gente de virar independente financeiramente. Continue gerenciando seus investimentos para manter (ou aumentar) seu retorno, e vá aproveitar a vida sem se preocupar em perder o emprego ou ter uma emergência, sabendo que você construiu pra si mesmo uma sólida rede de segurança financeira.
+
+## O Investidor amador
+
+#### A reserva de emergência:
+Qualquer pessoa financeiramente estável deve ter uma reserva de emergência. Como o próprio nome indica, reserva de emergência é um montante guardado por você (normalmente de 12 a 36 meses de despesas mensais – com o mínimo sugerido de R$30mil) que podem ser sacados para a conta corrente, imediatamente, apenas em casos de emergências. Veja bem:
+
+Não são emergências: compra ou troca de carro, viagens, cirurgias estéticas, chegada de um bebê, festas comemorativas, etc. Em suma, todos os valores referentes a eventos importantes para uma vida bem vivida merecem um investimento próprio e planejado e não podem ser retirados da reserva de emergência. São emergências: desemprego involuntário, situações médicas de urgência, batidas de carro, desabamento ou inundação da residência, etc. 
+
+Importante notar que se tratam de situações inesperadas e vultosas – daí a necessidade de sua reserva estar sempre líquida (poder ser sacada imediatamente) e intocada.
+
+Antes de fazer sua reserva de emergência não é adequado realizar investimentos. Sugerimos a alocação do dinheiro da reserva de emergência em instrumentos conservadores e de liquidez imediata como o CDBs de grandes bancos; Tesouro Selic; LCA; LCI ou mesmo a poupança (apesar desta ter uma remuneração muito baixa – discutiremos sobre todos esses produtos de investimentos mais tarde no livro).
+
+#### Tempo dedicado aos investimentos:
+Conforme dito no item anterior, você deve saber e aceitar, desde o início, que deverá, necessariamente, dedicar uma certa quantidade de tempo aos investimentos. Entretanto, não se assuste. Recomendo, de forma geral, uma revisão de seus investimentos já realizados uma vez por mês (por volta de uma hora) e uma leitura diária ou semanal sobre política econômica ou produtos financeiros de aproximadamente 5 a 30 minutos.
+
+#### Princípios básicos investidor amador:
+Para ser um bom investidor amador, aquele que alcança sua independência financeira em médio ou longo prazo, em primeiro lugar, você deve se convencer totalmente que é um investidor amador. Isso significa que você ficará distante de produtos financeiros complexos e, principalmente, de “negócios inovadores e altamente rentáveis”, de difícil compreensão que, a todo momento, alguns “amigos” irão lhe oferecer.
+
+**Controle de risco:** como dito, o investidor amador não está atrás das melhores rentabilidades a todo momento. O principal objetivo é outro: não perder dinheiro.
+
+**Diversificação:** o investidor amador tem como principal remédio contra o risco de perder quantia relevante de seu patrimônio a diversificação. Considerando que não existe investimento sem risco, por mais que alguns incautos insistam em dizer que existem, o único caminho é ter o patrimônio em diversos investimentos. Nesse livro procuraremos expor os diversos investimentos possíveis e suas características.
+
+**Conheça seu Perfil de Investidor e seus objetivos:** todo bom investidor sabe que o dinheiro não é um fim em si, ele é apenas um meio para você alcançar seus objetivos. Esses objetivos podem ser de curto (montar uma reserva de emergência – prioridade máxima –, comprar um carro, fazer uma viagem, comprar um eletrodoméstico, etc.), médio (comprar um terreno, casa ou apartamento, abrir uma empresa, pagar a educação dos filhos, etc.) ou longo prazo (aposentadoria e independência financeira total).
+
+**Invista o dinheiro novo e não desinvista seu dinheiro**
+
+> Você deve ter em mente, sempre, que seus objetivos financeiros são de longo prazo – não meses, mas décadas – e que sempre haverá alguns de seus investimentos rendendo bem e outros nem tanto. Todos, entretanto, devem ter um valor intrínseco preservado a todo tempo, só sendo justificável sua venda caso não mais o possuam.
+
 
 ### Renda Fixa
 Quando empresta para o Banco: Renda fixa privada 
@@ -145,8 +173,13 @@ _Necessita ouvir de novo p/ tirar dúvidas..._
 ## Outros
 
 ### Taxa Selic
+SELIC significa Sistema Especial de Liquidação e de Custódia e, segundo o Banco Central brasileiro, define-se como “a taxa média ajustada dos financiamentos diários apurados no Sistema Especial de Liquidação e de Custódia (Selic) para títulos federais. 
 
-...
+Fora o palavrório em economês, em termos pertinentes ao investidor amador, a taxa Selic é definida através de uma decisão do COPOM (comitê  de política monetária do Banco Central do Brasil) em uma reunião realizada a cada 45 dias aproximadamente. O Comitê de Política Monetária (Copom) é o órgão decisório da política monetária do Banco Central do Brasil (BC) e o responsável por estabelecer a meta para a Taxa Selic. O Copom foi constituído em 20 de Junho de 1996, com o objetivo de estabelecer um ritual adequado ao processo decisório de política monetária e aprimorar sua transparência.
+
+Suponha que houve uma reunião do COPOM em que o comitê do BACEN decidiu por estipular a SELIC em 14% ao ano. Isso significa que os empréstimos que o tesouro nacional faz com o mercado vão pagar, no mínimo, a taxa de 14% ao ano a partir daí. Assim, caso alguma instituição queira pegar dinheiro com o tesouro, pagará a taxa de 14% ao ano. 
+
+Para desenvolver esse raciocínio, continuemos as repercussões na economia. Caso algum banco queira emprestar dinheiro a seus clientes, sabendo que o dinheiro poderá ser financiado com o tesouro à taxa SELIC, deverá, como regra, cobrar juros superiores à SELIC para obter lucro.
 
 ### 5 Dicas para investir em 2019
 **Tesouro SELIC** <br>
