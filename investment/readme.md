@@ -92,14 +92,11 @@ Para ser um bom investidor amador, aquele que alcança sua independência financ
 
 
 ### Renda Fixa
-Quando empresta para o Banco: Renda fixa privada 
+Os investimentos em renda fixa são aqueles em que, desde o momento da contratação, o investidor sabe qual será a remuneração de seu investimento. Daí a denominação “renda fixa”. Veja-se, porém, que renda fixa não significa que os rendimentos sempre são conhecidos antecipadamente – vez que eles podem estar atrelados a índices (como, por exemplo, a inflação) que só serão conhecidos no curso do empréstimo. Há, assim, uma subdivisão entre os investimentos de renda fixa pré-fixados e os pós-fixados.
 
-Quando é para o governo: Renda fixa de títulos publicos (Renda fixa pública)
+**Os investimentos de renda fixa pré-fixados** são aqueles que, no momento da aquisição do produto o investidor saberá qual a taxa de juros aplicável ao empréstimo até seu vencimento.
 
-- Pré Fixado: Já sabe qual vai ser a remuneração do dinheiro investido, no momento da contratação
-- Pós Fixado: Fixado a algum inídice cuja definição vai ser futura. _Ex.: Atrelado indice de infalção, ou mesmo, taxa basica de juros ou Certificado de Depósito Interbancários - CDI_
-
-Prejuízo: Não receber o valor _combinado_
+**Os investimentos de renda fixa pós-fixados** são aqueles que têm sua remuneração atrelada a determinado índice que irá variar no decorrer do empréstimo.
 
 ### Renda váriavel
 Não tem qualquer acordo prévio, fixo, em relação a remnueração do capital investido.
@@ -131,20 +128,56 @@ Essas ações não se baseiam em especulações... **Pensar a longo prazo.**
 
 ## Ativos
 
+[Blog de Valor](https://www.youtube.com/watch?v=smdTFadMEkk)
+
 ### Tesouro direto
-> Significa compra de títulos públicos do governo federal diretamente pelo cidadão
+O investimento em tesouro direto significa a compra de títulos públicos do governo federal diretamente pelo cidadão. Em bom português, significa que você empresta seu dinheiro ao tesouro nacional por um determinado prazo fixo e por uma taxa de juros já combinada que poderá ser prefixada (tesouro prefixado), atrelada à inflação (tesouro IPCA), ou atrelada à taxa selic (tesouro selic).
 
-Empresta seu dinheiro ao tesouro nacional por um determinado prazo fixo, com taxa de juros já combinada _(Pré fixado)_, atrelado a inflação _(IPCA)_ ou CELIC
+Os papéis do tesouro de um país soberano são considerados como o menor risco dentro desse mercado específico. Tal se dá pelo fato de que o país, como nação, é o único ente do mercado doméstico que tem a prerrogativa de imprimir dinheiro.
 
-**Tesouro Selic** <br>
+>Outra característica muito interessante dos títulos do tesouro direto é a sua liquidez diária. Você pode vender seus títulos todos os dias e o dinheiro já estará na sua conta no dia seguinte – perfazendo-se uma excelente opção para alocação das reservas de emergência – notadamente os títulos atrelados à selic (Tesouro Selic – mais abaixo falaremos especificamente sobre cada papel).
 
-- Basicamente a aplicação mais conservadora do Brasil
-- Rende 100% da taxa SELIC (OVER)
-- Pode resgatar a qualquer momento (alta liquidez)
+1. Títulos prefixados: são aqueles que já oferecem, no momento da compra, a taxa fixa que será paga até o vencimento. Por exemplo, caso você adquira o título “tesouro prefixado 2023” (todas as informações que vou falar aqui estão disponíveis fácil e imediatamente no site quando você estiver fazendo sua compra), verá que esse título paga uma taxa fixa (no momento em que escrevo, a taxa de é de 12,34% a.a.) até seu vencimento (no caso, 01/01/2023).
+
+2. Títulos pós-fixados atrelados ao IPCA: esses títulos, chamados “Tesouro IPCA+”, pagam uma taxa fixa (como se fossem os prefixados), mais a variação do IPCA do período. Se você, por exemplo, adquirir o papel “Tesouro IPCA+2024”, está contratando, com o tesouro nacional, um empréstimo de seu dinheiro que renderá, no momento em que escrevo esse trecho, a variação do IPCA (índice de inflação oficial brasileiro), mais 6,21%a.a até a data do vencimento (nesse caso, 15/08/2024).
+
+> Esses juros excedentes ao IPCA que é pago por esses títulos são chamados juros reais pois são acima da inflação, mantendo o real valor de compra do montante que você investiu. Esse, então, é o título mais adequado para investimentos de muito longo prazo (acima de 15 anos) ou aposentadoria.
+
+3. Títulos pós-fixados atrelados à taxa SELIC: os títulos “Tesouro Selic” rendem exatamente a variação da taxa selic do período que você contratou. No momento em que escrevo, existe o título “Tesouro Selic 2021” que possui vencimento em 01/03/2021. Esse é o único papel que garante que você não perderá seu dinheiro se decidir vender seu título antecipadamente (para aplicações acima de 30 dias). Por esse motivo, torna-se o mais indicado para a reserva de emergência – já que possui, como todos os títulos do tesouro direto, liquidez diária e não está sujeito a oscilações de mercado em seu valor (os outros títulos variam de acordo com o mercado. Assim, caso você decida vendê-los antes de seu vencimento, poderá ter prejuízo ou lucro).
+
+
 
 ### LCI e LCA
 
 - Isento de Imposto de Renda
+
+### CDB 
+- Imposto de renda em cima do lucro (Tabela regressiva, valoe a pena 2 anos)
+
+### Fundos de investimento
+*Não tem garantia do FGC
+
+- Todo fundo tem um CNPJ próprio.
+- Todo fundo tem um Gestor: É quem toma a decisão do que fazer com o dinheiro dos investidores.
+- Banco custodiante: Guarda os títulos em nome do fundo
+- Pode ser um fundo de renda fixa, de ações ou multimercado.
+
+O que observar ao entrar em um fundo: 
+- Verificar volatilidade do fundo, minímo e máxima já atingido e se você está apto a 'comprar' essa briga de volatilidade.
+- Ficar atento na média e não só na rentabilidade anual.
+
+1. **Taxa de administração:** Todos os fundos cobram a taxa de administração. É o valor que você paga pela gestão do seu dinheiro e, na maioria dos casos, a rentabilidade mensal já vem com o desconto desse custo.
+
+2. **Taxa de performance:** Alguns fundos cobram a taxa de performance. Bem resumidamente, é uma taxa cobrada quando o rendimento vai melhor do que o esperado.
+
+3. **Taxa de carregamento:** Alguns fundos cobram um valor para cada vez que o investidor (cotista) faz um novo aporte, é a taxa de carregamento.
+É muito importante saber quais taxas estão sendo cobradas no seu investimento para não ter surpresas no final do mês. Quanto mais informações você tiver, melhor!
+
+#### Fundo multimercado
+Fundo de renda fixa e renda váriavel, onde o gestor decidirá melhor local a aplicar.
+
+#### Fundo cambial
+Indexado ao dólar
 
 ### Planos de aposentadoria PGBL e VGBL (Previdência Privada)
 
@@ -169,17 +202,30 @@ Pegadinhas sobre Prev. Privada:
 
 _Necessita ouvir de novo p/ tirar dúvidas..._
 
-
 ## Outros
 
-### Taxa Selic
-SELIC significa Sistema Especial de Liquidação e de Custódia e, segundo o Banco Central brasileiro, define-se como “a taxa média ajustada dos financiamentos diários apurados no Sistema Especial de Liquidação e de Custódia (Selic) para títulos federais. 
+### Volatilidade
+Nada mais é do que o oscilação em termos de rentabilidade.
 
-Fora o palavrório em economês, em termos pertinentes ao investidor amador, a taxa Selic é definida através de uma decisão do COPOM (comitê  de política monetária do Banco Central do Brasil) em uma reunião realizada a cada 45 dias aproximadamente. O Comitê de Política Monetária (Copom) é o órgão decisório da política monetária do Banco Central do Brasil (BC) e o responsável por estabelecer a meta para a Taxa Selic. O Copom foi constituído em 20 de Junho de 1996, com o objetivo de estabelecer um ritual adequado ao processo decisório de política monetária e aprimorar sua transparência.
+### Taxa Selic e CDI
+Em breves palavras, seria aquela taxa de juros definida pelo comitê de política econômica do Banco Central do Brasil que remunera os títulos públicos federais – por isso chamada taxa básica de juros. A taxa CDI – Certificado de Depósito Interbancário (ou taxa DI) – é a taxa que remunera um empréstimo realizado entre os bancos.
 
-Suponha que houve uma reunião do COPOM em que o comitê do BACEN decidiu por estipular a SELIC em 14% ao ano. Isso significa que os empréstimos que o tesouro nacional faz com o mercado vão pagar, no mínimo, a taxa de 14% ao ano a partir daí. Assim, caso alguma instituição queira pegar dinheiro com o tesouro, pagará a taxa de 14% ao ano. 
+### Indices Inflácionarios
+Existem diversos índices apurados por agências de governo ou privadas que tentam medir a inflação de determinada região ou do país. Os mais utilizados para fins de investimentos atualmente no Brasil são:
 
-Para desenvolver esse raciocínio, continuemos as repercussões na economia. Caso algum banco queira emprestar dinheiro a seus clientes, sabendo que o dinheiro poderá ser financiado com o tesouro à taxa SELIC, deverá, como regra, cobrar juros superiores à SELIC para obter lucro.
+**IPCA**: Índice Nacional de Preços ao Consumidor Amplo – considerado a inflação oficial do país. Medido pelo IBGE (Instituto Brasileiro de Geografia e Estatística) e considera gastos como alimentação, bebidas, comunicação, despesas pessoais, educação, habitação, saúde e cuidados pessoais. Busca refletir o custo de vida de famílias com renda mensal de 1 a 40 salários mínimos. Muito usado como indexador de renda fixa nos investimentos.
+
+**IGP-M**: Índice Geral de Preços do Mercado – medido pela FGV (Fundação Getúlio Vargas). O índice busca registrar a inflação de preços variados – desde matérias primas (agrícolas, industriais, etc.) a produtos e serviços. Muito utilizado na correção de aluguéis e tarifas públicas e também como indexador de investimentos.
+
+### Fundo garantidor de crédito (FGC)
+Antes de adentrarmos nos produtos de investimentos propriamente ditos, devemos abordar um pouco uma garantia disponível a alguns produtos de renda fixa e que ainda será muito mencionada: a garantia do FGC (Fundo Garantidor de Crédito).
+
+O FGC é uma entidade privada, sem fins lucrativos, que visa a garantir créditos (investimentos) de instituições a ele associadas quando há intervenção, liquidação extrajudicial ou insolvência. Além disso, o FGC visa a contribuir para a manutenção da estabilidade do Sistema Financeiro Nacional através da manutenção da liquidez das associadas. Frise-se que a associação é compulsória (excluídas as cooperativas de crédito).
+
+O fundo irá garantir, por instituição financeira (ou conglomerado) e por CPF (ou CNPJ), a quantia máxima de R$250.000,00 (aí incluídos todos os juros e ganhos do investimento) com uma contribuição fixa de 0,0125% ao mês (retirada da rentabilidade do investimento).
+
+### FIC
+FIC = Fundo de investimento em cotas, compra cotas de outros fundos. 
 
 ### 5 Dicas para investir em 2019
 **Tesouro SELIC** <br>
