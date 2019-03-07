@@ -33,3 +33,11 @@ Ex.: [Willian Justen Proj Documentation](https://github.com/lyef/lyef-react-comp
 #### Contributing
 Instructions on how contribute on your project
 [Example](https://github.com/lyef/lyef-react-component/blob/master/CONTRIBUTING.md)
+
+### Styleguide
+Is a documentation of pattern your code must follow, exist multiples styleguides, like:
+
+- [Airbnb styleguide](https://github.com/airbnb/javascript)
+- [Standard styleguide](https://github.com/standard/standard)
+
+Combine your styleguide with ESLint
