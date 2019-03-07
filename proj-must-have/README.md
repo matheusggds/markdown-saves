@@ -41,3 +41,8 @@ Is a documentation of pattern your code must follow, exist multiples styleguides
 - [Standard styleguide](https://github.com/standard/standard)
 
 Combine your styleguide with ESLint
+
+### ESLint
+Eslint will pass trought your files and chech if they are following the styleguide you setted.
+
+starting with `npm i eslint --save-dev` then `eslint --init` to start your project.

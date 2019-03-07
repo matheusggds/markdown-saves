@@ -21,5 +21,10 @@
   "bugs": {
     "url": "https://github.com/matheusggds/markdown-saves/issues"
   },
-  "homepage": "https://github.com/matheusggds/markdown-saves#readme"
+  "homepage": "https://github.com/matheusggds/markdown-saves#readme",
+  "devDependencies": {
+    "eslint": "^5.15.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0"
+  }
 }
