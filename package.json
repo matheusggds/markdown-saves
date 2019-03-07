@@ -1,0 +1,25 @@
+{
+  "name": "project-must-haves",
+  "version": "1.0.0",
+  "description": "What your project should have? Maeb this can help u",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheusggds/markdown-saves.git"
+  },
+  "keywords": [
+    "guide",
+    "starting",
+    "project",
+    "styleguide"
+  ],
+  "author": "Matheus Gomide",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matheusggds/markdown-saves/issues"
+  },
+  "homepage": "https://github.com/matheusggds/markdown-saves#readme"
+}
