@@ -18,3 +18,18 @@ You can start using [gitignore npm package](https://www.npmjs.com/package/gitign
 
 use `gitignore -types` to see a list of all typex. <br>
 Ex.: `gitignore Node` simple like that.
+
+### Documentation
+#### Readme
+Core description of your repository. Apresentation, How to use, Best pratices and etc... 
+
+You can use the [Awesome-readme repository](https://github.com/matiassingers/awesome-readme) to get some instructions when building your doc.
+
+Ex.: [Willian Justen Proj Documentation](https://github.com/lyef/lyef-react-component), [Template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
+
+#### License
+[Popular licenses](https://opensource.org/licenses)
+
+#### Contributing
+Instructions on how contribute on your project
+[Example](https://github.com/lyef/lyef-react-component/blob/master/CONTRIBUTING.md)
