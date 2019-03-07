@@ -10,7 +10,7 @@ You can start with `npm init` then follow the instructions.
 For more: [npmjs](https://docs.npmjs.com)
 
 ### .gitignore
-*.gitignore* is extremely usefull to tell `Git` what from our folder must go to repository. There is a lot of time that you has folders that are built at runtime that you dont need it on your repository, then, you use .gitignore.
+*.gitignore* is extremely usefull to tell `Git` what from our folder must go to repository. There is a lot of times where your repository has folders which you dont need them to go to your repository, then, u use _.gitignore_
 
 You can start using [gitignore npm package](https://www.npmjs.com/package/gitignore).
 
