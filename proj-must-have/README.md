@@ -48,5 +48,34 @@ Eslint will pass trought your files and chech if they are following the stylegui
 starting with `npm i eslint --save-dev` then `eslint --init` to start your project.
 
 ### EditorConfig
+...
 ### NPM Scripts
+...
 ### Git Hooks (husky)
+...
+
+## Project quality
+### Common sense
+Think before creating something, like:
+- Verify variables names
+- Verify if is your code legible, anyone can understand what u doing?
+- Think before and analyse after
+
+### Semantic variables
+- Use semantic names, variable for a user, use `user`, `userData`, something usefull, not *a* or *b*
+- Simples words, semantic, not a phrase, easy to write and read
+- Use verbs as variables, `getUser`, `getProduct`, `deleteProduct`
+
+### Methods
+- Methods must be short, if is it to long, divide it
+- Has only one responsability, do one thing
+- Re-usable method, dynamic
+
+### Dont comment everything on your code
+A good code is the on that without comments you can understand everything it must do.
+
+### Think a lot about the project
+If u dont worry about your project, how thing gonna run, how your team will do it, you will throw against techinique debts
+
+### TESTS!
+Fundamental to garantee quality of your project
