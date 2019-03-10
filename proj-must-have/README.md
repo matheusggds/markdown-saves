@@ -46,3 +46,7 @@ Combine your styleguide with ESLint
 Eslint will pass trought your files and chech if they are following the styleguide you setted.
 
 starting with `npm i eslint --save-dev` then `eslint --init` to start your project.
+
+### EditorConfig
+### NPM Scripts
+### Git Hooks (husky)
