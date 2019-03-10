@@ -7,3 +7,7 @@ Following [Willan Justen](https://willianjusten.com.br/) TDD Course here I wil p
 - Documentation
 - Better Code design 
 - Guarantee quality
+
+## How TDD flow
+![TDD flow](http://prntscr.com/mw2g4x)
+
