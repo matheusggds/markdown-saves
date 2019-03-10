@@ -9,5 +9,5 @@ Following [Willan Justen](https://willianjusten.com.br/) TDD Course here I wil p
 - Guarantee quality
 
 ## How TDD flow
-![TDD flow](http://prntscr.com/mw2g4x)
+![TDD flow](https://image.prntscr.com/image/IGyO3DfnRJOV-YtkWYdpXQ.png)
 
