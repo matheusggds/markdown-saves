@@ -46,3 +46,22 @@ it('should return 4 when receive 2,2') {
 ```
 
 ex.: `it must add class Active when clicked`
+
+### Test types
+![test-pyramid](https://martinfowler.com/bliki/images/testPyramid/test-pyramid.png)
+Pyramid created by Martin Fowler, TDD Creator
+
+**Unit** 
+- Unit test, tests with unique responsable, if return this or something
+- A lot of tests
+- Very fast
+
+**Service**
+- Integration tests, API responsable, services and etc..
+- Not to much tests
+- Medium velocity
+
+**UI**
+- UI Test, Selenium or Phantom JS where u see the machine manipulating the project. 
+- Just some tests
+- Slow tests
