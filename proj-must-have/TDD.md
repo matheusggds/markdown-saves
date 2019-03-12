@@ -29,3 +29,17 @@ Write the code, simple code (maybe stupid), that the test validates.
 6. Refactor your code <br>
 Garantee your code still valid in a better style
 
+### Think as a Test
+1. What the method should do? <br>
+All method need to do one thing
+2. What data this method will receive?
+3. What this method must return?
+4. When will this method run?
+
+### Test Pattern
+1. "It should do that when this" <br>
+ex.: ```javascript
+it('should return 4 when receive 2,2') {
+    expect(sum(2,2)).to.equal(4);
+}
+```
