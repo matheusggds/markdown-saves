@@ -37,10 +37,12 @@ All method need to do one thing
 4. When will this method run?
 
 ### Test Pattern
-1. "It should do that when this" <br>
+"It should do that when this" <br>
 ex.: 
 ```javascript
 it('should return 4 when receive 2,2') {
     expect(sum(2,2)).to.equal(4);
 }
 ```
+
+ex.: `it must add class Active when clicked`
