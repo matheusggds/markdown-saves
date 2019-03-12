@@ -49,19 +49,35 @@ ex.: `it must add class Active when clicked`
 
 ### Test types
 ![test-pyramid](https://martinfowler.com/bliki/images/testPyramid/test-pyramid.png)
+
 Pyramid created by Martin Fowler, TDD Creator
 
-**Unit** 
+**Unit** - Simple and little test that validate only one method
+
 - Unit test, tests with unique responsable, if return this or something
 - A lot of tests
 - Very fast
 
-**Service**
+Tips:
+- Isolate it, all test must be independent
+- Use `before it` and `after it` to clean global variables
+- Use the best asserts ex.: `expected to be`
+- Use _Mocks_ to extern calls
+- Use test to help your test design
+
+**Service** - Integration test, test to validate if your components work good 
+
 - Integration tests, API responsable, services and etc..
 - Not to much tests
 - Medium velocity
 
-**UI**
+Tips:
+- Careful to dont repeat unit tests
+- Isolate it
+
+**UI** - 
+
 - UI Test, Selenium or Phantom JS where u see the machine manipulating the project. 
 - Just some tests
 - Slow tests
+
