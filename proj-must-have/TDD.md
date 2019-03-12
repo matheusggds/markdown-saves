@@ -38,7 +38,8 @@ All method need to do one thing
 
 ### Test Pattern
 1. "It should do that when this" <br>
-ex.: ```javascript
+ex.: 
+```javascript
 it('should return 4 when receive 2,2') {
     expect(sum(2,2)).to.equal(4);
 }
