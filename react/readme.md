@@ -2,6 +2,12 @@
 
 Basically is a resume for [Maximilian Schwarzmüller - React Course](https://www.udemy.com/react-the-complete-guide-incl-redux/), which you should buy, because is awesome.
 
+## Definition
+
+React could be defined by a Library to build web interfaces. A lot of people get it confused by a Framework but isn't. A Framework has a lot of functionalities like Angular, Vue, etc.
+
+It is focused on Components. The rest is made by other libraries like Redux, Router, etc.
+
 ## Components
 
 #### Statefull vs Stateless
@@ -115,3 +121,15 @@ useEffect(() => {
 }, [])
 ```
 *now this will work as componentDidMount
+
+If you need the *component unmount* lifecycle, just return a function inside your effect like:
+
+``` javascript
+useEffect(() => {
+  window.addEventListener('resize', () => handleMobile())
+  
+  return () => {
+    window.removeEventListener('resize', () => handleMobile())
+  }
+}, [])
+```
