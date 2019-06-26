@@ -115,3 +115,25 @@ useEffect(() => {
 }, [])
 ```
 *now this will work as componentDidMount
+
+##### Cleaning up with Lifecycles Hooks & useEffect()
+If you want to cleanup some event listeners you set up somehwere, anything like that, any cleanup work you want to do.
+
+In a class-based component you can add `componentWillUnmount()` and on useEffect you should return a function while useEffect second argument is a empty array.
+
+##### shouldComponentUpdate()
+
+Check here to update this component only when the props it uses is really different from before. It saves a lot of performance at re-rendering a component event when it doesnt really changed.
+
+Re-rendering is not necessary a DOM Re-render, but Virtual DOM re-render.
+
+``` javascript
+shouldComponentUpdate(nextProps, nextState) {
+    if (nextProps.data !== this.props.persons) {
+        return true;
+    } else {
+        return false;
+    }
+}
+```
+*careful with reference types here
