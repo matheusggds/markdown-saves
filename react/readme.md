@@ -137,3 +137,32 @@ shouldComponentUpdate(nextProps, nextState) {
 }
 ```
 *careful with reference types here
+
+##### Optmize performance of Functional Component
+
+- React.memo()
+This basically uses memoization which is a technique where React will memorize, so basically store a snapshot of this component and only if its input changes, it will re-render it and otherwise if its inputs do not change and some parent component wants to update this component.
+
+``` javascript
+import React from 'react';
+
+const persons = () => {
+    return (
+        <h1>jsx content</h1>
+    )
+}
+
+export default React.memo(persons);
+```
+
+#### Pure Component
+Pure component in the end is just a normal component that already implements shouldComponentUpdate with a complete props check, so that checks for any changes in any prop of that component.
+
+So if that is what you need, you can also just use pure component instead of manually implementing this shouldComponentUpdate check. The result will be the same, so you can do either of these but of course you can save some code if you use pure component.
+
+``` javascript
+import React, { PureComponent } from 'react';
+
+class Persons extends PureComponent {}
+```
+
