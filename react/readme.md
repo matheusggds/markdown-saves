@@ -30,7 +30,7 @@ So having a lot of dumb or presentational components is a good idea.
 #### Component Lifecycle
 
 - it's only available in class-based components.
-*You will actually learn that functional components when using React hooks have an equivalent you could say but generally, it's only available in class-based components.
+` *You will actually learn that functional components when using React hooks have an equivalent you could say but generally, it's only available in class-based components. `
 
 Methods
 - constructor(): You can do it for basic initialization work, for example for setting an initial state.
