@@ -4,14 +4,14 @@ Basically is a resume for [Maximilian Schwarzmüller - React Course](https://www
 
 ## Components
 
-#### Statefull vs Stateless
+### Statefull vs Stateless
 
-##### Statefull Components / Container
+#### Statefull Components / Container
 - Is when your component is managing with state. 
 - Since React 16.8, stateful is not automatically a class-based component, its a components that manages state, as class-based os using React Hooks.
 
 
-##### Stateless Components / Presentational
+#### Stateless Components / Presentational
 - It is a functional component that does not manage state
 
 OBS: the question of course is why and the answer is by splitting your app into container components which
@@ -25,11 +25,11 @@ time maintaining it.
 
 So having a lot of dumb or presentational components is a good idea.
 
-#### Class-based vs Functional Components
+### Class-based vs Functional Components
 
 ...
 
-#### Component Lifecycle
+### Component Lifecycle
 
 - it's only available in class-based components.
 
@@ -46,7 +46,7 @@ Methods:
 - componentDidMount()
 - render()
 
-##### Component Lifecycle - Creation
+#### Component Lifecycle - Creation
 
 -- component lifecycle creation image --
 
@@ -68,7 +68,7 @@ HTML code so to say. What you still shouldn't do in there is send HTTP requests 
 
 4. *componentDidMount*: Here, you can cause side effects. You shouldnt update the state here synchronously.
 
-##### Component Lifecycle - Update
+#### Component Lifecycle - Update
 
 -- component lifecycle update image --
 
@@ -116,12 +116,12 @@ useEffect(() => {
 ```
 *now this will work as componentDidMount
 
-##### Cleaning up with Lifecycles Hooks & useEffect()
+#### Cleaning up with Lifecycles Hooks & useEffect()
 If you want to cleanup some event listeners you set up somehwere, anything like that, any cleanup work you want to do.
 
 In a class-based component you can add `componentWillUnmount()` and on useEffect you should return a function while useEffect second argument is a empty array.
 
-##### shouldComponentUpdate()
+#### shouldComponentUpdate()
 
 Check here to update this component only when the props it uses is really different from before. It saves a lot of performance at re-rendering a component event when it doesnt really changed.
 
@@ -138,7 +138,7 @@ shouldComponentUpdate(nextProps, nextState) {
 ```
 *careful with reference types here
 
-##### Optmize performance of Functional Component
+#### Optmize performance of Functional Component
 
 - React.memo()
 This basically uses memoization which is a technique where React will memorize, so basically store a snapshot of this component and only if its input changes, it will re-render it and otherwise if its inputs do not change and some parent component wants to update this component.
@@ -155,7 +155,7 @@ const persons = () => {
 export default React.memo(persons);
 ```
 
-#### Pure Component
+### Pure Component
 Pure component in the end is just a normal component that already implements shouldComponentUpdate with a complete props check, so that checks for any changes in any prop of that component.
 
 So if that is what you need, you can also just use pure component instead of manually implementing this shouldComponentUpdate check. The result will be the same, so you can do either of these but of course you can save some code if you use pure component.
@@ -166,3 +166,10 @@ import React, { PureComponent } from 'react';
 class Persons extends PureComponent {}
 ```
 
+## How React Updates The DOM
+
+The render method being called does not immediately also render this to the real DOM.
+
+The name can be misleading, this does not mean that it renders it to the DOM. Render is more a suggestion of what the HTML should look like in the end but render can very well be called and lead to the same result as is already displayed and that is part of the reason why we use shouldComponentUpdate to prevent unnecessary render calls.
+
+-- how react updated the dom image --
