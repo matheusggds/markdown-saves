@@ -84,7 +84,7 @@ HTML code so to say. What you still shouldn't do in there is send HTTP requests 
 
 5. _componentDidUpdtate_
 
-##### useEffect() in Functional Components
+#### useEffect() in Functional Components
 
 We have to import it from React and it's called useEffect. useEffect is the second most important React hook you can use next to useState because useEffect and now that sounds strange but useEffect basically combines the functionality or the use cases you can cover of all these class-based lifecycle hooks in one React hook here and both is called hook,it's actually not related.This is not a lifecycle hook,this is a React hook so basically a function you can add into one of your functional components.
 
@@ -166,10 +166,53 @@ import React, { PureComponent } from 'react';
 class Persons extends PureComponent {}
 ```
 
-## How React Updates The DOM
+### How React Updates The DOM
 
 The render method being called does not immediately also render this to the real DOM.
 
 The name can be misleading, this does not mean that it renders it to the DOM. Render is more a suggestion of what the HTML should look like in the end but render can very well be called and lead to the same result as is already displayed and that is part of the reason why we use shouldComponentUpdate to prevent unnecessary render calls.
 
+Re-rendering or calling render doesn't immediately update the real DOM, instead React makes a comparison. It compares the old virtual DOM to the new one and it checks if there are any differences.
+
+If it can detect differences, it reaches out to the real DOM and updates it and even then, it doesn't re-render the real DOM entirely, it only changes it in the places where differences were detected,
+
 -- how react updated the dom image --
+
+### Rendering adjacents JSX elements
+
+React does allow us to return an array of adjacent elements as long as all the items in there have a key and that key is required so that React can efficiently update and reorder these elements as it might be required by your app.
+
+### HOC - High Order Components
+They are basically components that wrap other components and in there.
+
+> It's kind of a convention to name higher order components with a with at the beginning, though of course
+
+For example:
+
+Create a HOC `WithClass.js`, witch returns a wrapper element using _classes_ passed by props.
+
+``` javascript
+import React from 'react';
+
+const withClass = props => (
+    <div className={props.classes}>
+        {props.children}
+    </div>
+)
+
+export default withClass;
+
+```
+
+and usage:
+
+``` javascript
+import WithClass from 'withClassPath';
+
+<WithClass classes="active">
+    <h1>Title</h1>
+    <p>content content</p>
+</WithClass>
+```
+
+Obviously there would be nothing wrong with sticking to a div but we'll introduce other higher order components where we for example add error handling that we can wrap around any component that makes an HTTP request and all of a sudden, this becomes more useful.
