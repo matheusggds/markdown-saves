@@ -216,3 +216,31 @@ import WithClass from 'withClassPath';
 ```
 
 Obviously there would be nothing wrong with sticking to a div but we'll introduce other higher order components where we for example add error handling that we can wrap around any component that makes an HTTP request and all of a sudden, this becomes more useful.
+
+### Setting state correctly when depending on the old state
+Set state does not only take a Javascript object, it also works when you pass in a function, so you can use either syntax.
+
+Now when you're doing state updates that don't depend on the old state, there is nothing wrong with just passing the object.
+
+``` javascript
+this.setState((prevState, props) => {
+    return {
+        counter: prevState.counter + 1
+    }
+})
+```
+
+### Proptypes
+Is a NPM pkg to easly indicate which and what props your component will receive.
+
+`npm i --save prop-types` to use it.
+
+``` javascript
+import { PropTypes } from 'prop-types';
+
+yourComponent.propTypes = {
+    click: PropTypes.func,
+    name: PropTypes.string,
+    age: PropTypes.number
+}
+```
