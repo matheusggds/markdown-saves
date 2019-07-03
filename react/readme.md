@@ -244,3 +244,18 @@ yourComponent.propTypes = {
     age: PropTypes.number
 }
 ```
+
+### Refs
+Ref, just like key, is a special property you can pass into any component, it is detected and understood by React.
+
+One way to use Refs:
+``` javascript
+componentDidMount() {
+    this.inputElement.focus();
+}
+
+<component
+    onChange={this.props.func}
+    ref={(inputEl) => {this.inputElement = inputEl}}
+/>
+```
