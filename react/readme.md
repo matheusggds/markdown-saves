@@ -166,6 +166,8 @@ import React, { PureComponent } from 'react';
 class Persons extends PureComponent {}
 ```
 
+At _functional components_ you can use [React.memo](https://pt-br.reactjs.org/docs/react-api.html#reactmemo)
+
 ### How React Updates The DOM
 
 The render method being called does not immediately also render this to the real DOM.
@@ -259,3 +261,47 @@ componentDidMount() {
     ref={(inputEl) => {this.inputElement = inputEl}}
 />
 ```
+
+Another approach, newer, is using [React.createref](https://pt-br.reactjs.org/docs/refs-and-the-dom.html)
+
+At _functional components_ you can use [useRef()](https://pt-br.reactjs.org/docs/hooks-reference.html#useref)
+
+### Context API / Props chain problems
+
+Context was introduced by React and it helps us handle cases like, where you need certain data, certain state in multiple components and you don't want to pass that state across multiple layers of components just to get it from component A at the top to component D at the very bottom when the components B, C in between don't really care about it and that's exactly the use case here.
+
+We want to skip parent component and with the React context feature, we can do that.
+
+#### Using context API
+
+[Context API](https://pt-br.reactjs.org/docs/context.html)
+
+Let`s imagine a context which handle authentication data.
+
+Create a `context` folder and create a file called `auth-context.js`.
+
+_auth-context.js_
+``` javascript
+import React from 'react';
+
+const authContext = React.createContext({
+    authenticated: false
+})
+
+export default authContext;
+```
+
+Now React create context actually allows us to initialize our context with a default value because what the context in the end is is a globally available Javascript object you could say, though globally available is not entirely correct, you decide where it is available. But it is a Javascript object that can be passed between React components without using props, behind the scenes so to say
+
+_app.js_
+``` javascript
+import AuthContext from 'filePath';
+
+<AuthContext.Provider>
+    ... Component which use authContext context
+</AuthContext.Provider>
+```
+
+So in there, let's import AuthContext with a capital A at the beginning from the context folder and there of course the auth-context file. Now authContext can be used as a component and it should wrap and that's important, it should wrap all the parts of your application that need access to this context.
+
+_This section must be completed... Sorry_
