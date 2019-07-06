@@ -305,3 +305,32 @@ import AuthContext from 'filePath';
 So in there, let's import AuthContext with a capital A at the beginning from the context folder and there of course the auth-context file. Now authContext can be used as a component and it should wrap and that's important, it should wrap all the parts of your application that need access to this context.
 
 _This section must be completed... Sorry_
+
+## Planning a React App
+
+- **Component Tree / Component Structure**:  You probably got a design by your designer or you basically created an app design on your own and now it's up to you to split this up into React components and it's absolutely normal that the result you may have at the end might look different than your initially planned component tree but it's super important to have an idea about what should go into its own component and what not.
+
+- **Application state**: You can also translate this with the data you plan on using and manipulating in your application
+
+- **Components vs Containers**: So which components in your application should be stateless, also sometimes called dumb components, so basically components that are functional and don't use hooks or even class-based components that don't use state and which components have to be stateful components, so either functional components using their useState hook or class-based components using the state property.
+
+----
+We are use a Burger Builder project as example.
+
+### Layout and Component Tree
+We need to define what our application actually is and what it should be able to do. 
+
+So the goal is that users can use this app to add ingredients and therefore build a burger. 
+
+_layout_
+
+_component tree_
+
+_burger builder component_
+
+### Planning State
+we also need to know which state we're going to use in our application. 
+
+This state becomes important because it also allows us to identify what should be a component and what should be a container. So what should be a stateless component and what should be a stateful component.
+
+_burger planning state_
