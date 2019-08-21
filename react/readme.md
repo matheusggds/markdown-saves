@@ -185,6 +185,12 @@ If it can detect differences, it reaches out to the real DOM and updates it and 
 React does allow us to return an array of adjacent elements as long as all the items in there have a key and that key is required so that React can efficiently update and reorder these elements as it might be required by your app.
 
 ### HOC - High Order Components
+HOC is a function that accepts a component as parameter and return a augmented version of this original component.
+
+You can do thing like:
+- Messing with the original past props inspecting them or even changing them
+- Rendering something else entirely instead of rendering the original component
+
 They are basically components that wrap other components and in there.
 
 > It's kind of a convention to name higher order components with a with at the beginning, though of course
